@@ -1,0 +1,14 @@
+Carlos, Robie A.
+2018 - 03026
+CMSC 150 - B1L 
+
+Notes: 
+
+- Simplex Algorithm is capped at 200 iterations to see if there is a feasible solution
+  thus resulting to a slight delay.
+
+- Entering characters and symbols in the simplex may cause error.
+
+- Sample Inputs are located in the sample inputs folder.
+
+- Use app.R to launch the program.

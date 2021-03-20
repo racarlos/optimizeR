@@ -1,0 +1,19 @@
+CMSC 150 Project Requirements and Dependencies
+
+Requirements : 
+
+1. R and RStudio installed in your machine.
+
+2. Dependencies : RShiny, ShinyDashboard, RHandsonTable
+
+-To install these dependencies, copy these codes in the console of RStudio.
+ 
+install.packages("shiny")
+install.packages("shinydashboard")
+install.packages("rhandsontable")
+
+- Then Press Enter.
+
+
+Carlos, Robie A.
+2018 - 03026
